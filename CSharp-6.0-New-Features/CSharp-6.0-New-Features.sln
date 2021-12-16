@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. UsingStatic", "01. Usin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. NameofExpression", "02. NameofExpression\02. NameofExpression.csproj", "{D9B8B91D-8F5C-4043-A357-4A0DF56B7757}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. NullConditionalOperators", "03. NullConditionalOperators\03. NullConditionalOperators.csproj", "{D8FD667F-BB22-4B26-A354-BA06F0487431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D9B8B91D-8F5C-4043-A357-4A0DF56B7757}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9B8B91D-8F5C-4043-A357-4A0DF56B7757}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9B8B91D-8F5C-4043-A357-4A0DF56B7757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FD667F-BB22-4B26-A354-BA06F0487431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FD667F-BB22-4B26-A354-BA06F0487431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FD667F-BB22-4B26-A354-BA06F0487431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FD667F-BB22-4B26-A354-BA06F0487431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

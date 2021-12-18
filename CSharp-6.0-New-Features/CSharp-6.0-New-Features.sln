@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. ExpressionBodiesForFunc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. ExpressionBodiesForProperties", "10. ExpressionBodiesForProperties\10. ExpressionBodiesForProperties.csproj", "{A7DCC4EF-F049-45CF-8E31-9E70B31AF767}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Roslyn", "11. Roslyn\11. Roslyn.csproj", "{3E2AC44E-5905-49F2-B20C-40B09F17F308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{A7DCC4EF-F049-45CF-8E31-9E70B31AF767}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7DCC4EF-F049-45CF-8E31-9E70B31AF767}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7DCC4EF-F049-45CF-8E31-9E70B31AF767}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2AC44E-5905-49F2-B20C-40B09F17F308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2AC44E-5905-49F2-B20C-40B09F17F308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2AC44E-5905-49F2-B20C-40B09F17F308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2AC44E-5905-49F2-B20C-40B09F17F308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

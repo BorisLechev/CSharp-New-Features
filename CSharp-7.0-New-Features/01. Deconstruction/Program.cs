@@ -1,4 +1,4 @@
-﻿namespace _1._Deconstruction
+﻿namespace _01._Deconstruction
 {
     public static class Program
     {

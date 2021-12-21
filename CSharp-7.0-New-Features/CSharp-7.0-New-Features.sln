@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. LocalFunctions", "04. L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. OutVariables", "05. OutVariables\05. OutVariables.csproj", "{918C7D7D-553C-46AD-A03F-F83E401E4534}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. NumberLiteralsImprovements", "06. NumberLiteralsImprovements\06. NumberLiteralsImprovements.csproj", "{AFC8AC3A-3C92-4754-A153-E4802918F480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{918C7D7D-553C-46AD-A03F-F83E401E4534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918C7D7D-553C-46AD-A03F-F83E401E4534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918C7D7D-553C-46AD-A03F-F83E401E4534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC8AC3A-3C92-4754-A153-E4802918F480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC8AC3A-3C92-4754-A153-E4802918F480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC8AC3A-3C92-4754-A153-E4802918F480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC8AC3A-3C92-4754-A153-E4802918F480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

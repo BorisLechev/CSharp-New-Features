@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. OutVariables", "05. Out
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. NumberLiteralsImprovements", "06. NumberLiteralsImprovements\06. NumberLiteralsImprovements.csproj", "{AFC8AC3A-3C92-4754-A153-E4802918F480}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. ThrowExpressions", "07. ThrowExpressions\07. ThrowExpressions.csproj", "{0F37EDC9-2E22-4838-A908-E1B892C8831A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AFC8AC3A-3C92-4754-A153-E4802918F480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFC8AC3A-3C92-4754-A153-E4802918F480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFC8AC3A-3C92-4754-A153-E4802918F480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F37EDC9-2E22-4838-A908-E1B892C8831A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F37EDC9-2E22-4838-A908-E1B892C8831A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F37EDC9-2E22-4838-A908-E1B892C8831A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F37EDC9-2E22-4838-A908-E1B892C8831A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. InitOnlyProperties", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. TopLevelStatements", "03. TopLevelStatements\03. TopLevelStatements.csproj", "{0DA1319B-8ABA-4EA3-892C-9418EAFA2AE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. NativeSizedIntegers", "04. NativeSizedIntegers\04. NativeSizedIntegers.csproj", "{E17E85F5-5E98-463E-B7E9-E86B90176F9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0DA1319B-8ABA-4EA3-892C-9418EAFA2AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DA1319B-8ABA-4EA3-892C-9418EAFA2AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DA1319B-8ABA-4EA3-892C-9418EAFA2AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17E85F5-5E98-463E-B7E9-E86B90176F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17E85F5-5E98-463E-B7E9-E86B90176F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17E85F5-5E98-463E-B7E9-E86B90176F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17E85F5-5E98-463E-B7E9-E86B90176F9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

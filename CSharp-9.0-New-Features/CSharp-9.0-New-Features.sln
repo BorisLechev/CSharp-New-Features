@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. RecordTypes", "01. Reco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. InitOnlyProperties", "02. InitOnlyProperties\02. InitOnlyProperties.csproj", "{6355A117-292E-43EC-8CC6-EDB3AE2C5CB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. TopLevelStatements", "03. TopLevelStatements\03. TopLevelStatements.csproj", "{0DA1319B-8ABA-4EA3-892C-9418EAFA2AE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6355A117-292E-43EC-8CC6-EDB3AE2C5CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6355A117-292E-43EC-8CC6-EDB3AE2C5CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6355A117-292E-43EC-8CC6-EDB3AE2C5CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA1319B-8ABA-4EA3-892C-9418EAFA2AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA1319B-8ABA-4EA3-892C-9418EAFA2AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA1319B-8ABA-4EA3-892C-9418EAFA2AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA1319B-8ABA-4EA3-892C-9418EAFA2AE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

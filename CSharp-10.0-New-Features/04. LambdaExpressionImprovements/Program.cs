@@ -21,4 +21,5 @@ var trigonometricFunction = Math.Sin;
 var value = object (bool b) => b ? 1 : "two"; // Func<bool, object>
 
 // Attributes on lambdas
-var square = [Author("Niki")] (int x) => x * x;
+var square = [Author("Boris")] (int x) => x * x;
+Console.WriteLine(square(2)); // 4
